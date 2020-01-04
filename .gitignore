@@ -1,0 +1,10 @@
+* linguist-vendored
+*.sln linguist-vendored=false
+*.h linguist-vendored=false
+*.ilk linguist-vendored=false
+*.pdb linguist-vendored=false
+*.exe linguist-vendored=false
+*.vcxproj linguist-vendored=false
+*.user linguist-vendored=false
+*.filters linguist-vendored=false
+*.cpp linguist-language=C++

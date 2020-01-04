@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\prywatne\github\tcpclinet\tcpclinet\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TCPClient.cpp
+  Generating Code...
+  TCPClinet.vcxproj -> D:\Prywatne\GITHUB\TCPClinet\Debug\TCPClinet.exe
